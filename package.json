@@ -1,0 +1,32 @@
+{
+  "name": "mizukiri-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takeshinoda/mizukiri-demo.git"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "dependencies": {
+    "aws-sdk": "^2.2.23",
+    "gulp-install": "^0.6.0",
+    "gulp-zip": "^3.0.2",
+    "mizukiri": "0.0.6",
+    "node-aws-lambda": "^0.1.7",
+    "run-sequence": "^1.1.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.17",
+    "babel-polyfill": "^6.3.14",
+    "babel-preset-es2015": "^6.3.13",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-util": "^3.0.7",
+    "run-sequence": "^1.1.5"
+  }
+}
