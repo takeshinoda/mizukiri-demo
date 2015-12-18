@@ -7,7 +7,7 @@ Mizukiri is a library that chain calls the AWS Lambda .
 
 AWS credential file or addtion to config.js.
 
-## depoloy
+## deploy
 
 `$ TEST_ROLE='arn:aws:iam::111111111111:role/lambda-test-1' gulp deploy`
 
