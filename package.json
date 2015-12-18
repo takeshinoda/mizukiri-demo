@@ -13,12 +13,7 @@
     ]
   },
   "dependencies": {
-    "aws-sdk": "^2.2.23",
-    "gulp-install": "^0.6.0",
-    "gulp-zip": "^3.0.2",
-    "mizukiri": "0.0.6",
-    "node-aws-lambda": "^0.1.7",
-    "run-sequence": "^1.1.5"
+    "mizukiri": "0.0.7"
   },
   "devDependencies": {
     "babel-core": "^6.3.17",
